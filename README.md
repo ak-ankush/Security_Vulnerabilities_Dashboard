@@ -22,24 +22,21 @@ This dashboard helps security teams by:
 Page 2 of the Security Vulnerabilities Dashboard provides a time-based and predictive view of vulnerabilities across multiple years. Here's a detailed breakdown of what this page shows:
 
 The table shows a month-wise breakdown of vulnerabilities across 2021, 2022, and 2023, plus yearly totals:
-
-2021: 1,050 vulnerabilities
-2022: 850 vulnerabilities
-2023: 1,450 vulnerabilities
+1. 2021: 1,050 vulnerabilities
+2. 2022: 850 vulnerabilities
+3. 2023: 1,450 vulnerabilities
 
 Forecast by Year:
 
 It shows the growth in the total number of vulnerabilities year over year.
-
-Past Data:
-2021: 1.1K
-2022: 1.9K
-2023: 3.4K
+1. 2021: 1.1K
+2. 2022: 1.9K
+3. 2023: 3.4K
 
 Forecast:
-The line extends into 2024 and 2025, predicting a continued upward trend.
-A shaded band represents the confidence interval (range of uncertainty), indicating that Total vulnerabilities may reach around 5K–6K by 2025.
-This helps security teams plan ahead and forecast resource allocation for vulnerability management.
+1. The line extends into 2024 and 2025, predicting a continued upward trend.
+2. A shaded band represents the confidence interval (range of uncertainty), indicating that Total vulnerabilities may reach around 5K–6K by 2025.
+3. This helps security teams plan ahead and forecast resource allocation for vulnerability management.
 
 Key Takeaways:
 1. Vulnerabilities have increased year over year, especially in 2023.
