@@ -1,7 +1,7 @@
 # Security_Vulnerabilities_Dashboard
 This Security Vulnerabilities Dashboard gives a comprehensive overview of reported vulnerabilities in a system or organization.
 
-Summary statistics:
+### Summary statistics:
 
 1. Vulnerability Count: 3,350 total vulnerabilities identified.
 2. Critical Vulns: 476 vulnerabilities marked as Critical severity.
@@ -42,3 +42,8 @@ Key Takeaways:
 1. Vulnerabilities have increased year over year, especially in 2023.
 2. The forecast suggests this trend will continue, requiring proactive mitigation strategies.
 3. Certain months (like June and May of 2023) see spikes—possibly due to release cycles, audits, or major updates.
+
+### Dashboard sample
+
+![image](https://github.com/user-attachments/assets/b6d6fbfa-b7e4-4ae2-a433-54e8db4ae452)
+
